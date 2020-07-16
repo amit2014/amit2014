@@ -10,15 +10,15 @@ which produce outputs that later are used to take decisions. Everything is showe
 
 For the entire project one single problem is given, and it will be modeled with different machine learning procedures. It was chosen
 a realistic project to make it credible and challenging: based on the daily historical quotes of a stock market time serie, 
-use machine learning to decide when to trade it or not. Specifically, the idea is to trade the [SPY](https://finance.yahoo.com/quote/SPY?p=SPY), 
+use machine learning to decide when to trade it or not. Specifically, the idea is to trade the [INFY](https://finance.yahoo.com/quote/INFY/history?period1=946684800&period2=1594857600&interval=1d&filter=history&frequency=1d), 
 which is an [ETF](https://www.investopedia.com/terms/e/etf.asp) that
 replicates the performance of the [S&P 500](https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC). Anybody with a stock market account, is able to buy 
-a share of SPY, and it will have a return equivalent to the S&P 500 performance during the investment period. The SPY is a tradable asset and the quotes
+a share of INFY, and it will have a return equivalent to the S&P 500 performance during the investment period. The INFY is a tradable asset and the quotes
 could be downloaded on Yahoo Finance
 
 ## The Data
 
-For this project, it is used 20 years of daily SPY quotes: from years Jan 01, 2000 to July 16, 2020. The raw data consits of six daily fields:
+For this project, it is used 20 years of daily INFY quotes: from years Jan 01, 2000 to July 16, 2020. The raw data consits of six daily fields:
 
  * Date
  * Open
