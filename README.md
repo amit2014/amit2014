@@ -18,7 +18,7 @@ could be downloaded on Yahoo Finance
 
 ## The Data
 
-For this project, it is used 19 years of daily SPY quotes: from years 2000 to 2018. The raw data consits of six daily fields:
+For this project, it is used 20 years of daily SPY quotes: from years Jan 01, 2000 to July 16, 2020. The raw data consits of six daily fields:
 
  * Date
  * Open
