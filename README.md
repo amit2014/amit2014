@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # Machine Learning Tour by Examples by Amit Jadhav
 This project is a tour for several machine learning procedures showed with examples, applied to one single and specific problem. 
