@@ -5,11 +5,8 @@
  ह्या प्रोजेक्ट आपण अनेक मशीन लर्निंग अल्गोरिथम्सचा अभ्यास/वापर एका विशिष्ट समस्येवर कसा लागू होतो आणि त्याचे उत्तर काय मिळते ह्यासाठी आहे.
  मशीन लर्निंग मॉडेल विकसित झाल्यावर त्याच्या माघे  कोण कोणत्या सर्व प्रक्रिया विकसित होतात हे दाखवायचे आहे. म्हणजे सार्वजनिक डेटा स्रोताकडून डेटा कसा मिळविला जातो, तो कसा प्रीप्रोसेस्ड केला जातो, कसा ट्रान्सफॉर्म केला जातो आणि नंतर काही मशीन लर्निंग मॉडेल्सना तो कसा दिला जातो,  जे आउटपुट देतात जे नंतर निर्णय घेण्यासाठी वापरले जातात, ह्याचे सर्व ज्ञान आपल्याला इथे मिळेल. [ज्युपिटर नोटबुक] (https://jupyter.org) च्या माध्यमातून [पायथन 3] (https://www.python.org) मध्ये लागू केलेल्या व्यावहारिक उदाहरणासह प्रत्येक गोष्ट पायरी-पायरी ने दर्शविली आहे.
 
-    The main idea is to show, in a simplified way, all the processes evolved when a machine learning model is developed. It shows how the data is gotten from a public data source, preprocessed, transformed and then given to some machine learning models,
-which produce outputs that later are used to take decisions. Everything is showed step by step, with practical examples implemented in 
-    [Python 3](https://www.python.org) throught [Jupyter Notebooks](https://jupyter.org).
 
-## The problem to model: Earn money in the stock markets
+## मॉडेल तयार करण्यासाठीचे उदाहरण : शेअर बाजारात पैसे मिळवा.
 
 For the entire project one single problem is given, and it will be modeled with different machine learning procedures. It was chosen
 a realistic project to make it credible and challenging: based on the daily historical quotes of a stock market time serie, 
