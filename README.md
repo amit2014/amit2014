@@ -1,6 +1,6 @@
-# Hi there 👋
+# नमस्कार  👋
 
-# अमित जाधव यांची उदाहरणे देऊन मशीन लर्निंग टूर.
+# मशीन लर्निंग शिका अमित जाधव यांच्या उदाहरणांसोबत .
 This project is a tour for several machine learning procedures showed with examples, applied to one single and specific problem. 
     The main idea is to show, in a simplified way, all the processes evolved when a machine learning model is developed. It shows how the data is gotten from a public data source, preprocessed, transformed and then given to some machine learning models,
 which produce outputs that later are used to take decisions. Everything is showed step by step, with practical examples implemented in 
