@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **[ping@jadhav.io](mailto: info@wawilo.com)**
+- 📫 How to reach me **[info@wawilo.com](mailto: info@wawilo.com)**
 
 
 
