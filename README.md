@@ -2,7 +2,7 @@
 
 India-based Developer. Building backend systems, AI tools, and developer-focused applications.  
 
-Python • TypeScript • Rust • Kubernetes • AI  
+Python • TypeScript • Go• Docker • AI  
 
 ---
 
