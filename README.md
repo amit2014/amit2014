@@ -69,8 +69,8 @@ Exploring modern backend architectures and agent-based systems.
 
 ## 🛠 Tech Stack  
 
-`Python` `TypeScript` `Rust`  
-`Kubernetes` `Docker`  
+`Python` `TypeScript` `Go`  
+`Docker`  
 `APIs` `System Design`  
 
 ---
